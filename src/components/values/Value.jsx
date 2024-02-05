@@ -71,9 +71,8 @@ const Value = () => {
                   </div>
                 </AccordionSummary>
                 <AccordionDetails>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                  eget.
+                Optimize your financial growth with our Best Interest Rates in the Market! From savings to loans, access competitive rates tailored to your goals.
+               
                 </AccordionDetails>
               </Accordion>
             </div>
@@ -102,9 +101,7 @@ const Value = () => {
                   </div>
                 </AccordionSummary>
                 <AccordionDetails>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                  eget.
+                Stabilize Your Finances: Choose Confidence Over Uncertainty. Our Platform Prevents Unstable Pricing Options, Providing Consistency and Peace of Mind. 
                 </AccordionDetails>
               </Accordion>
             </div>
@@ -134,9 +131,8 @@ const Value = () => {
                   </div>
                 </AccordionSummary>
                 <AccordionDetails>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                  eget.
+                Unbeatable Excellence: Experience the Pinnacle of Value with Our Best Price in the Industry.  
+                
                 </AccordionDetails>
               </Accordion>
             </div>
