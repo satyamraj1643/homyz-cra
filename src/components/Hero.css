@@ -94,31 +94,7 @@
     
 }
 
-.search-bar{
-    background-color: white;
-    border-radius: 5px;
-    border: 3px solid rgba(120, 120, 120, 0.374);
-    padding: 0.5rem 1rem;
-    justify-content: center;
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    margin-top: 3rem;
-    flex-wrap: wrap;
-}
 
-.locologo{
-    margin-top: 5px;
-    margin-right: 40px;
-}
-
-.input{
-    text-decoration: none;
-    border: none;
-    font-size: 1.5rem;
-    outline: none;
-    color: black;
-}
 .stats{
     display: flex;
     flex-direction: row;
@@ -152,6 +128,7 @@
 
 .hero-description{
     margin-top: 1rem;
+    margin-bottom: 2rem;
     font-size: 0.9rem;
     color: #8c8b8b;
 }
@@ -187,19 +164,7 @@
   @media only screen and (max-width: 530px) {
     
 
-    .search-bar{
-        background-color: whitesmoke;
-
-        border-radius: 5px;
-        border: 3px solid rgba(120, 120, 120, 0.374);
-        padding: .5rem 1rem;
-        justify-content: center;
-        display: flex;
-        flex-direction: column;
-        width: 90%;
-        align-items: center;
-        flex-wrap: wrap;
-    }
+   
     .hero-left{
         display: flex;
         flex-wrap: wrap;
@@ -207,26 +172,26 @@
         justify-content: center;
         margin: 0;
     }
-    
-    .locologo{
-        margin: 0 auto; /* Center the locologo */
-        height: 40px;
-        
+    .hero-description{
+        margin-top: 1rem;
+        font-size: 0.9rem;
+        color: #8c8b8b;
     }
     
-    .input{
-        text-decoration: none;
-        font-size: 1.5rem;
-        width: 100%;
-        margin-top: .5rem;
-        margin-bottom: 1rem;
-        border: .5px solid grey;
-        border-radius: 15px;
-        height: 3rem;
-        outline: none;
-        color: black;
-    } 
+    .search-bar{
+        margin-top:-3rem;
+        
 
+    }
+    .stat-num{
+        margin-top: auto;
+        font-size:2rem;
+       
+        
+        color: aquamarine;
+    }
+    
+    
     .image-container{
        
         
