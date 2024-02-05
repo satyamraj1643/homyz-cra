@@ -151,7 +151,7 @@
 }
 
 .hero-description{
-    margin-top: 3rem;
+    margin-top: 1rem;
     font-size: 0.9rem;
     color: #8c8b8b;
 }
@@ -160,7 +160,7 @@
     
 
     .hero-container{
-        margin-top: 30px;
+        margin-top: 2rem;
         justify-content: center;
         padding: 15px;
     }
@@ -188,36 +188,60 @@
     
 
     .search-bar{
-        background-color: white;
+        background-color: whitesmoke;
+
         border-radius: 5px;
         border: 3px solid rgba(120, 120, 120, 0.374);
-        padding: 0.5rem 1rem;
+        padding: .5rem 1rem;
         justify-content: center;
         display: flex;
         flex-direction: column;
-        width: 100%;
-        margin-top: 3rem;
+        width: 90%;
+        align-items: center;
         flex-wrap: wrap;
+    }
+    .hero-left{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        justify-content: center;
+        margin: 0;
     }
     
     .locologo{
         margin: 0 auto; /* Center the locologo */
+        height: 40px;
         
     }
     
     .input{
         text-decoration: none;
-        border: none;
         font-size: 1.5rem;
         width: 100%;
-        margin-top: 1rem;
+        margin-top: .5rem;
         margin-bottom: 1rem;
-        border: 1px solid grey;
-        border-radius: 10px;
+        border: .5px solid grey;
+        border-radius: 15px;
         height: 3rem;
         outline: none;
         color: black;
     } 
+
+    .image-container{
+       
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        height: 30rem;
+        border-radius : 15rem 15rem 0 0;
+        border: 8px solid rgba(255, 255, 255, 0.12);
+        
+        animation: slideLeft 2000ms ease;
+        
+    
+    }
    
   }
   

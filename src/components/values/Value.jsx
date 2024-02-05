@@ -13,7 +13,7 @@ const Value = () => {
   const accordionStyle = {
   
     border: "1px solid grey",
-    boxShadow: "var(--shadow)",
+    // boxShadow: "var(--shadow)",
   };
 
   const accordionStyleHover = {

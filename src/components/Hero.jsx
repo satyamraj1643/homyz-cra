@@ -14,10 +14,10 @@ const Hero = () => {
             <h1>
               Discover <br /> Most Suitable <br /> Property
             </h1>
-          </div>
-          <div className=" flexColStart hero-description">
-            <span>Find a variety of properties that suit you very easily</span>
-            <span> Forget all difficulties in finding a residence for you</span>
+          </div> 
+          <div className="  flexColStart hero-description">
+            <span>Find a variety of properties that suit you very easily.</span>
+            <span> Forget all difficulties in finding a residence for you.</span>
           </div>
           <div className="search-bar">
             <HiLocationMarker className="locologo" color="var(--blue)" size={25} />

@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <section className="h-wrapper">
       <section className="innerWidth h-container paddings flexCenter">
-      <img src="./logo.png" alt="logo" width={100} />
+      <img  className = "logo" src="./logo.png" alt="logo" width={100} />
 
         <div className=" flexCenter h-menu">
           <a href="">Residencies</a>
